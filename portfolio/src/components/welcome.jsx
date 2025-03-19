@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Aurora from './welcome_animation';
-import ShinyText from './ShinyText';
+import ShinyText from './shinyText';
 
 const Welcome = () => {
   const navigate = useNavigate();
